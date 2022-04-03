@@ -1,1 +1,1 @@
-# minecraft-server
+This is based on template
